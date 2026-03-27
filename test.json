@@ -1,0 +1,20 @@
+
+{
+  "Records": [
+    {
+      "eventVersion": "2.1",
+      "eventSource": "aws:s3",
+      "awsRegion": "us-east-2",
+      "eventTime": "2023-01-01T00:00:00.000Z",
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "bucket": {
+          "name": "orchard-input-raw"
+        },
+        "object": {
+          "key": "ES001_2025-01-20_02.jpg"
+        }
+      }
+    }
+  ]
+}
