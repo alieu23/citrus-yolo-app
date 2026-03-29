@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/citrus-lambda.iml" filepath="$PROJECT_DIR$/.idea/citrus-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aws-yield-estimation.iml" filepath="$PROJECT_DIR$/.idea/aws-yield-estimation.iml" />
     </modules>
   </component>
 </project>
