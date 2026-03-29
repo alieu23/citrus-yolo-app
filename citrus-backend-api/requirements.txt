@@ -1,0 +1,8 @@
+fastapi
+mangum
+uvicorn
+boto3
+pydantic
+python-multipart
+opencv-python-headless
+numpy==1.26.4
